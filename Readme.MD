@@ -16,5 +16,5 @@ Your build environment will be for the Atmega2560
 
 [Klipper install guide](https://www.klipper3d.org/Installation.html)
 [Klipper configuration refernce guide](https://github.com/KevinOConnor/klipper/blob/master/docs/Config_Reference.md)
-[Klipper rotation distance configuration](https://github.com/KevinOConnor/klipper/blob/master/docs/Rotation_Distance.md]
-[Klipper config checks](https://github.com/KevinOConnor/klipper/blob/master/docs/Config_checks.md0
+[Klipper rotation distance configuration](https://github.com/KevinOConnor/klipper/blob/master/docs/Rotation_Distance.md)
+[Klipper config checks](https://github.com/KevinOConnor/klipper/blob/master/docs/Config_checks.md)
