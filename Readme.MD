@@ -21,3 +21,5 @@ Your build environment will be for the Atmega2560
 [Klipper rotation distance configuration](https://github.com/KevinOConnor/klipper/blob/master/docs/Rotation_Distance.md)
 
 [Klipper config checks](https://github.com/KevinOConnor/klipper/blob/master/docs/Config_checks.md)
+
+[Klipper probe offset](https://github.com/KevinOConnor/klipper/blob/master/docs/Probe_Calibrate.md)
