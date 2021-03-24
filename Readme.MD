@@ -2,7 +2,8 @@
 
 For installing the Prusa MK3s Stock Klipper firmware please follow the steps below:
 
-__Still in testing but stable!__
+__V1.2 is the most current stable but still testing and modifying__
+
 
 ## Updating Einsy Serial USB firmware
 
