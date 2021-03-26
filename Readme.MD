@@ -13,6 +13,17 @@ __V1.2 is the most current stable but still testing and modifying__
 
 Your build environment will be for the Atmega2560
 
+# Klipper for SKR Bear
+
+For installing the SKR Bear Klipper firmware please follow the steps below:
+
+__V0.2 is the most current stable but still testing and modifying__
+
+## Installing Klipper Firmware
+
+Your build environment will be for the LPC1768 or LPC1769
+Make sure you check both bootloader for Smoothieboard and USB Serial
+
 ## Useful links
 
 [Klipper install guide](https://www.klipper3d.org/Installation.html)
