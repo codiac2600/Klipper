@@ -1,0 +1,80 @@
+{
+    "header": {
+        "machine_id": "6b237cbd-01e8-4aac-965b-0225ec79f34e",
+        "machine_type": "SKRKLIPPER"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "clearance_settings": {
+            "clearance_extruder_settings": [
+                {
+                    "extruder": 0,
+                    "printhead_back_offset": 20,
+                    "printhead_front_offset": 45,
+                    "printhead_left_offset": 35,
+                    "printhead_right_offset": 30
+                },
+                {
+                    "extruder": 1,
+                    "printhead_back_offset": 79,
+                    "printhead_front_offset": 34,
+                    "printhead_left_offset": 62,
+                    "printhead_right_offset": 37
+                }
+            ],
+            "machine_gantry_height": 55
+        },
+        "machine_baudrate": 250000,
+        "machine_bed_shape": 0,
+        "machine_bed_temp_max": 120,
+        "machine_belt": false,
+        "machine_belt_gantry_angle": 45,
+        "machine_compensation_x": 100,
+        "machine_compensation_y": 100,
+        "machine_custom_printing_priority": false,
+        "machine_data_content_add": false,
+        "machine_data_file_add": false,
+        "machine_dim_x": 250,
+        "machine_dim_y": 210,
+        "machine_dim_z": 210,
+        "machine_distance_from_border": 0,
+        "machine_extruder_num": 1,
+        "machine_extruder_offset_x2": 25,
+        "machine_extruder_offset_y2": 0,
+        "machine_extruder_switch_wait_heating": false,
+        "machine_fan_control": true,
+        "machine_filament_1": 2,
+        "machine_filament_2": 2,
+        "machine_filament_name_1": "PLA 1.75mm",
+        "machine_filament_name_2": "PLA 1.75mm",
+        "machine_firmware_retraction": false,
+        "machine_firmware_type": "Marlin",
+        "machine_gcode_action": 0,
+        "machine_gcode_e_multiply_flow": true,
+        "machine_heat_bed": true,
+        "machine_idex_system": false,
+        "machine_m1001_code": "",
+        "machine_m1002_code": "",
+        "machine_m2000_code": "",
+        "machine_nozzle_diameter": 0.4,
+        "machine_nozzle_diameter_2": 0.4,
+        "machine_nozzle_temp_max_1": 300,
+        "machine_nozzle_temp_max_2": 300,
+        "machine_omit_raisetouch_code": true,
+        "machine_origin_center": false,
+        "machine_print_mode": 0,
+        "machine_prompt_use_raft": false,
+        "machine_prompt_use_raft_duplication_mirror": false,
+        "machine_prompt_use_raft_threshold": 150,
+        "machine_relative_extrusion": true,
+        "machine_reset_e_length_layer_change": true,
+        "machine_stepe": 0,
+        "machine_type_abbreviation": "SKRK",
+        "machine_validate_printing_priority": true,
+        "machine_virtual_extruder_offset_x2": 25,
+        "machine_virtual_extruder_offset_y2": 0
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
