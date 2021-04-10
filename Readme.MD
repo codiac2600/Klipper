@@ -1,4 +1,4 @@
-# Klipper for Pusa MK3s
+# Klipper for Prusa MK3s
 
 For installing the Prusa MK3s Stock Klipper firmware please follow the steps below:
 
